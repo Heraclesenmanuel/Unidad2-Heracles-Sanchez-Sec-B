@@ -1,0 +1,5 @@
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\FALCON JNB\Documents\SharpDevelop Projects\Hospital\Hospital\obj\Debug\Hospital.pdb
